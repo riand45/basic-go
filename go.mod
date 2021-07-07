@@ -1,3 +1,3 @@
-module localhost/hello
+module belajar
 
 go 1.16
